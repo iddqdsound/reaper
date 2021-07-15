@@ -15,7 +15,6 @@
   <category name="FX">
     <reapack name="iddqd_select only the track whose fx window is focused.lua" type="script" >
       <version name="1.0.0" >
-          <source main="main" file="iddqd_select only the track whose fx window is focused.lua"></source>
           <source main="main">https://github.com/iddqdsound/reaper/raw/f11218ad7d03a42e90e5e78e136937eb47a20f1f/iddqd_select%20only%20the%20track%20whose%20fx%20window%20is%20focused.lua</source>
       </version>
     </reapack>
