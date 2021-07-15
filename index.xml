@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="IDDQD">
+<index version="1" name="IDDQD Scripts">
   <category name="Takes Properties">
     <reapack name="iddqd_leafac_rename active take of selected items by source file name.lua" type="script" >
       <version name="1.0.0" >
          <source main="main">https://github.com/iddqdsound/reaper/raw/d5e91d66be47abc3e9f6af1df4ff8d9b0802f0a3/iddqd_leafac_rename%20active%20take%20of%20selected%20items%20by%20source%20file%20name%2C%20stripping%20format.lua</source>
          <source main="main">https://github.com/iddqdsound/reaper/raw/d5e91d66be47abc3e9f6af1df4ff8d9b0802f0a3/iddqd_leafac_rename%20active%20take%20of%20selected%20items%20by%20source%20file%20name.lua</source>
+      </version>
+      <version name="1.0.1" >
+         <source main="main" file="iddqd_leafac_rename active take of selected items by source file name, stripping format.lua">https://github.com/iddqdsound/reaper/raw/d5e91d66be47abc3e9f6af1df4ff8d9b0802f0a3/iddqd_leafac_rename%20active%20take%20of%20selected%20items%20by%20source%20file%20name%2C%20stripping%20format.lua</source>
+         <source main="main">https://github.com/iddqdsound/reaper/raw/d5e91d66be47abc3e9f6af1df4ff8d9b0802f0a3/iddqd_leafac_rename%20active%20take%20of%20selected%20items%20by%20source%20file%20name.lua</source>
+      </version>
+    </reapack>
+    <category name="FX">
+    <reapack name="reaper/iddqd_select only the track whose fx window is focused.lua" type="script" >
+      <version name="1.0.0" >
+         <source main="main">https://raw.githubusercontent.com/iddqdsound/reaper/ba040b46ef03525bf0e528cfe97c95bf3d25fd7d/iddqd_select%20only%20the%20track%20whose%20fx%20window%20is%20focused.lua</source>
       </version>
       <version name="1.0.1" >
          <source main="main" file="iddqd_leafac_rename active take of selected items by source file name, stripping format.lua">https://github.com/iddqdsound/reaper/raw/d5e91d66be47abc3e9f6af1df4ff8d9b0802f0a3/iddqd_leafac_rename%20active%20take%20of%20selected%20items%20by%20source%20file%20name%2C%20stripping%20format.lua</source>
