@@ -13,7 +13,7 @@
     </reapack>
   </category>
   <category name="FX">
-    <reapack name="reaper/iddqd_select only the track whose fx window is focused.lua" type="script" >
+    <reapack name="iddqd_select only the track whose fx window is focused.lua" type="script" >
       <version name="1.0.0" >
           <source main="main" file="reaper/iddqd_select only the track whose fx window is focused.lua"></source>
           <source main="main"></source>
