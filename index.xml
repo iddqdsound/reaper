@@ -3,20 +3,17 @@
   <category name="Takes Properties">
     <reapack name="iddqd_leafac_rename active take of selected items by source file name.lua" type="script" >
       <version name="1.0.0" >
-         <source main="main">https://github.com/iddqdsound/reaper/raw/d5e91d66be47abc3e9f6af1df4ff8d9b0802f0a3/iddqd_leafac_rename%20active%20take%20of%20selected%20items%20by%20source%20file%20name%2C%20stripping%20format.lua</source>
-         <source main="main">https://github.com/iddqdsound/reaper/raw/d5e91d66be47abc3e9f6af1df4ff8d9b0802f0a3/iddqd_leafac_rename%20active%20take%20of%20selected%20items%20by%20source%20file%20name.lua</source>
+         <source main="main" file="iddqd_leafac_rename active take of selected items by source file name.lua">https://github.com/iddqdsound/reaper/raw/d5e91d66be47abc3e9f6af1df4ff8d9b0802f0a3/iddqd_leafac_rename%20active%20take%20of%20selected%20items%20by%20source%20file%20name.lua</source>
       </version>
       <version name="1.0.1" >
-         <source main="main" file="iddqd_leafac_rename active take of selected items by source file name, stripping format.lua">https://github.com/iddqdsound/reaper/raw/d5e91d66be47abc3e9f6af1df4ff8d9b0802f0a3/iddqd_leafac_rename%20active%20take%20of%20selected%20items%20by%20source%20file%20name%2C%20stripping%20format.lua</source>
-         <source main="main">https://github.com/iddqdsound/reaper/raw/d5e91d66be47abc3e9f6af1df4ff8d9b0802f0a3/iddqd_leafac_rename%20active%20take%20of%20selected%20items%20by%20source%20file%20name.lua</source>
+         <source main="main" file="iddqd_leafac_rename active take of selected items by source file name, stripping format.lua">https://github.com/iddqdsound/reaper/raw/806816bc395a085bdee549e0f47ce967a1d2aa88/iddqd_leafac_rename%20active%20take%20of%20selected%20items%20by%20source%20file%20name%2C%20stripping%20format.lua</source>
       </version>
     </reapack>
   </category>
   <category name="FX">
     <reapack name="iddqd_select only the track whose fx window is focused.lua" type="script" >
       <version name="1.0.0" >
-          <source main="main" file="iddqd_select only the track whose fx window is focused.lua"></source>
-          <source main="main">https://github.com/iddqdsound/reaper/raw/f11218ad7d03a42e90e5e78e136937eb47a20f1f/iddqd_select%20only%20the%20track%20whose%20fx%20window%20is%20focused.lua</source>
+          <source main="main" file="iddqd_select only the track whose fx window is focused.lua">https://github.com/iddqdsound/reaper/raw/f11218ad7d03a42e90e5e78e136937eb47a20f1f/iddqd_select%20only%20the%20track%20whose%20fx%20window%20is%20focused.lua</source>
       </version>
     </reapack>
   </category>
