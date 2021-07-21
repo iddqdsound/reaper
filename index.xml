@@ -17,6 +17,16 @@
       </version>
     </reapack>
   </category>
+  <category name="Video">
+    <reapack name="iddqd_separate audio from selected video item (no grouping).lua" type="script" >
+      <version name="1.0.0" >
+         <source main="main" file="iddqd_separate audio from selected video item (no grouping).lua">https://github.com/iddqdsound/reaper/raw/master/iddqd_separate%20audio%20from%20selected%20video%20item%20(no%20grouping).lua</source>
+      </version>
+      <version name="1.0.1" >
+         <source main="main" file="iddqd_separate audio from selected video item (group video and audio items).lua">https://github.com/iddqdsound/reaper/raw/master/iddqd_separate%20audio%20from%20selected%20video%20item%20(group%20video%20and%20audio%20items).lua</source>
+      </version>
+    </reapack>
+  </category>
   <metadata>
     <link rel="website">http://www.iddqdsound.com</link>
     <link rel="donation" href="http://buymeacoffee.com/iddqdsound">Donation Link</link>
