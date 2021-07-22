@@ -29,6 +29,13 @@
       </version>
     </reapack>
   </category>
+  <category name="Video">
+    <reapack name="iddqd_paulie_Split 2.1 mp4 into 1 video, 1 stereo wav (ch1-2) and 1 mono wav (ch3) .lua" type="script" >
+      <version name="1.0.0" >
+         <source main="main" file="iddqd_paulie_Split 2.1 mp4 into 1 video, 1 stereo wav (ch1-2) and 1 mono wav (ch3) .lua">https://github.com/iddqdsound/reaper/raw/44ae54a0a0e295b5f6801c542b363e21cc217334/iddqd_paulie_Split%202.1%20mp4%20into%201%20video%2C%201%20stereo%20wav%20(ch1-2)%20and%201%20mono%20wav%20(ch3)%20.lua</source>
+      </version>
+    </reapack>
+  </category>
   <metadata>
     <link rel="website">http://www.iddqdsound.com</link>
     <link rel="donation" href="http://buymeacoffee.com/iddqdsound">Donation Link</link>
