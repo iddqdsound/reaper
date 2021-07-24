@@ -23,9 +23,9 @@
          <source main="main" file="iddqd_separate audio from selected video item (group video and audio items).lua">https://github.com/iddqdsound/reaper/raw/master/iddqd_separate%20audio%20from%20selected%20video%20item%20(group%20video%20and%20audio%20items).lua</source>
       </version>
     </reapack>
-    <reapack name="iddqd_separate audio from selected video item (group video and audio items).lua" type="script" >
+    <reapack name="iddqd_separate audio from selected video items, placing audio tracks on a new track.lua" type="script" >
       <version name="1.0.0" >
-         <source main="main" file="iddqd_separate audio from selected video item (group video and audio items).lua">https://github.com/iddqdsound/reaper/raw/master/iddqd_separate%20audio%20from%20selected%20video%20item%20(group%20video%20and%20audio%20items).lua</source>
+         <source main="main" file="iddqd_separate audio from selected video items, placing audio tracks on a new track.lua">https://github.com/iddqdsound/reaper/raw/55494c2f6d9d97f0a926b6100e93ce74f8473bca/iddqd_separate%20audio%20from%20selected%20video%20items%2C%20placing%20audio%20tracks%20on%20a%20new%20track.lua</source>
       </version>
     </reapack>
   </category>
