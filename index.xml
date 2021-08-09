@@ -20,22 +20,22 @@
   <category name="Tracks">
     <reapack name="iddqd_freeze tracks to mono (adding a freeze icon to tracks).lua" type="script" >
       <version name="1.0.0" >
-          <source main="main" file="iddqd_freeze tracks to mono (adding a freeze icon to tracks).lua">https://github.com/iddqdsound/reaper/raw/4840c373914f5bb8dff4a5d98a14353c988da97a/iddqd_freeze%20tracks%20to%20mono%20(adding%20a%20freeze%20icon%20to%20tracks).lua</source>
+          <source main="main" file="iddqd_freeze tracks to mono (adding a freeze icon to tracks).lua">https://github.com/iddqdsound/reaper/raw/0baa75632a68df8b5ebc50a038625fd4511be27d/iddqd_freeze%20tracks%20to%20mono%20(adding%20a%20freeze%20icon%20to%20tracks).lua</source>
       </version>
     </reapack>
     <reapack name="iddqd_freeze tracks to stereo (adding a freeze icon to tracks).lua" type="script" >
       <version name="1.0.0" >
-          <source main="main" file="iddqd_freeze tracks to stereo (adding a freeze icon to tracks).lua">https://github.com/iddqdsound/reaper/raw/4840c373914f5bb8dff4a5d98a14353c988da97a/iddqd_freeze%20tracks%20to%20stereo%20(adding%20a%20freeze%20icon%20to%20tracks).lua</source>
+          <source main="main" file="iddqd_freeze tracks to stereo (adding a freeze icon to tracks).lua">https://github.com/iddqdsound/reaper/raw/0baa75632a68df8b5ebc50a038625fd4511be27d/iddqd_freeze%20tracks%20to%20stereo%20(adding%20a%20freeze%20icon%20to%20tracks).lua</source>
       </version>
     </reapack>
     <reapack name="iddqd_freeze tracks to multichannel (adding a freeze icon to tracks).lua" type="script" >
       <version name="1.0.0" >
-          <source main="main" file="iddqd_freeze tracks to multichannel (adding a freeze icon to tracks).lua">https://github.com/iddqdsound/reaper/raw/4840c373914f5bb8dff4a5d98a14353c988da97a/iddqd_freeze%20tracks%20to%20multichannel%20(adding%20a%20freeze%20icon%20to%20tracks).lua</source>
+          <source main="main" file="iddqd_freeze tracks to multichannel (adding a freeze icon to tracks).lua">https://github.com/iddqdsound/reaper/raw/0baa75632a68df8b5ebc50a038625fd4511be27d/iddqd_freeze%20tracks%20to%20multichannel%20(adding%20a%20freeze%20icon%20to%20tracks).lua</source>
       </version>
     </reapack>
     <reapack name="iddqd_unfreeze tracks (removing frozen icon from tracks).lua" type="script" >
       <version name="1.0.0" >
-          <source main="main" file="iddqd_unfreeze tracks (removing frozen icon from tracks).lua">https://github.com/iddqdsound/reaper/raw/4840c373914f5bb8dff4a5d98a14353c988da97a/iddqd_unfreeze%20tracks%20(removing%20frozen%20icon%20from%20tracks).lua</source>
+          <source main="main" file="iddqd_unfreeze tracks (removing frozen icon from tracks).lua">https://github.com/iddqdsound/reaper/raw/0baa75632a68df8b5ebc50a038625fd4511be27d/iddqd_unfreeze%20tracks%20(removing%20frozen%20icon%20from%20tracks).lua</source>
       </version>
     </reapack>
   </category>
