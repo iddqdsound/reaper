@@ -17,6 +17,47 @@
       </version>
     </reapack>
   </category>
+  <category name="Tracks">
+    <reapack name="iddqd_freeze tracks to mono (adding a freeze icon to tracks).lua" type="script" >
+      <version name="1.0.0" >
+          <source main="main" file="iddqd_freeze tracks to mono (adding a freeze icon to tracks).lua">https://github.com/iddqdsound/reaper/raw/0baa75632a68df8b5ebc50a038625fd4511be27d/iddqd_freeze%20tracks%20to%20mono%20(adding%20a%20freeze%20icon%20to%20tracks).lua</source>
+      </version>
+    </reapack>
+    <reapack name="iddqd_freeze tracks to stereo (adding a freeze icon to tracks).lua" type="script" >
+      <version name="1.0.0" >
+          <source main="main" file="iddqd_freeze tracks to stereo (adding a freeze icon to tracks).lua">https://github.com/iddqdsound/reaper/raw/0baa75632a68df8b5ebc50a038625fd4511be27d/iddqd_freeze%20tracks%20to%20stereo%20(adding%20a%20freeze%20icon%20to%20tracks).lua</source>
+      </version>
+    </reapack>
+    <reapack name="iddqd_freeze tracks to multichannel (adding a freeze icon to tracks).lua" type="script" >
+      <version name="1.0.0" >
+          <source main="main" file="iddqd_freeze tracks to multichannel (adding a freeze icon to tracks).lua">https://github.com/iddqdsound/reaper/raw/0baa75632a68df8b5ebc50a038625fd4511be27d/iddqd_freeze%20tracks%20to%20multichannel%20(adding%20a%20freeze%20icon%20to%20tracks).lua</source>
+      </version>
+    </reapack>
+    <reapack name="iddqd_unfreeze tracks (removing frozen icon from tracks).lua" type="script" >
+      <version name="1.0.0" >
+          <source main="main" file="iddqd_unfreeze tracks (removing frozen icon from tracks).lua">https://github.com/iddqdsound/reaper/raw/0baa75632a68df8b5ebc50a038625fd4511be27d/iddqd_unfreeze%20tracks%20(removing%20frozen%20icon%20from%20tracks).lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Video">
+    <reapack name="iddqd_separate audio from selected video item (no grouping).lua" type="script" >
+      <version name="1.0.0" >
+         <source main="main" file="iddqd_separate audio from selected video item (group video and audio items).lua">https://github.com/iddqdsound/reaper/raw/master/iddqd_separate%20audio%20from%20selected%20video%20item%20(group%20video%20and%20audio%20items).lua</source>
+      </version>
+    </reapack>
+    <reapack name="iddqd_separate audio from selected video items, placing audio tracks on a new track.lua" type="script" >
+      <version name="1.0.0" >
+         <source main="main" file="iddqd_separate audio from selected video items, placing audio tracks on a new track.lua">https://github.com/iddqdsound/reaper/raw/55494c2f6d9d97f0a926b6100e93ce74f8473bca/iddqd_separate%20audio%20from%20selected%20video%20items%2C%20placing%20audio%20tracks%20on%20a%20new%20track.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Video">
+    <reapack name="iddqd_paulie_Split 2.1 mp4 into 1 video, 1 stereo wav (ch1-2) and 1 mono wav (ch3) .lua" type="script" >
+      <version name="1.0.0" >
+         <source main="main" file="iddqd_paulie_Split 2.1 mp4 into 1 video, 1 stereo wav (ch1-2) and 1 mono wav (ch3) .lua">https://github.com/iddqdsound/reaper/raw/44ae54a0a0e295b5f6801c542b363e21cc217334/iddqd_paulie_Split%202.1%20mp4%20into%201%20video%2C%201%20stereo%20wav%20(ch1-2)%20and%201%20mono%20wav%20(ch3)%20.lua</source>
+      </version>
+    </reapack>
+  </category>
   <metadata>
     <link rel="website">http://www.iddqdsound.com</link>
     <link rel="donation" href="http://buymeacoffee.com/iddqdsound">Donation Link</link>
